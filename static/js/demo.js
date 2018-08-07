@@ -34,7 +34,7 @@ $(function () {
             {
                 title: 'Pending',
                 defaultStyle: 'lobilist-success',
-                controls: ['edit', 'styleChange'],
+                controls: ['edit','add', 'remove'],
                 items: [
                     
                 ]
